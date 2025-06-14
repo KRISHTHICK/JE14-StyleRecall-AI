@@ -1,0 +1,44 @@
+streamlit
+langchain
+faiss-cpu
+ollama
+PyPDF2
+transformers
+sentence-transformers
+
+# README.md
+# markdown
+# Copy
+# Edit
+# # 📚🧵 StyleRecall AI – Fashion Knowledge Explorer
+
+# **StyleRecall AI** is a Retrieval-Augmented Generation (RAG) powered assistant that helps you explore fashion knowledge from uploaded documents like PDFs and catalogs.
+
+# ## 🚀 Features
+# - Upload fashion-related PDFs
+# - Ask fashion-related questions
+# - AI retrieves relevant content and answers using Ollama
+# - Built using Streamlit, LangChain, and FAISS
+
+# ## 🛠️ Setup
+
+# ### 1. Clone the repo
+# ```bash
+# git clone https://github.com/yourusername/StyleRecall-AI.git
+# cd StyleRecall-AI
+# 2. Install dependencies
+# bash
+# Copy
+# Edit
+# pip install -r requirements.txt
+# 3. Run Ollama in another terminal
+# bash
+# Copy
+# Edit
+# ollama serve
+# ollama run tinyllama
+# 4. Launch the app
+# bash
+# Copy
+# Edit
+# streamlit run app.py
